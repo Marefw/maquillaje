@@ -1,0 +1,47 @@
+.navbar {
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+.navbar .nav-item  .nav-link{
+    color: #000; 
+}
+.main-header{
+    position: relative;
+    background: url(../img/fondo.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
+
+.background-overlay {
+    position: absolute;
+    background: rgba(246, 229, 141,.3);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.form-control, .btn{
+    border-radius: 0;
+}
+
+.Equipo, footer{
+    background: #f6e58d; 
+}
+
+h7 {
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    background: rgba(0,0,0,0.4);
+    margin-top: 20px;
+}
+
+h8 {
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    background: rgba(0,0,0,0.4);
+    margin-top: 20px;
+}
